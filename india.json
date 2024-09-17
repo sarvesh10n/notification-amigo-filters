@@ -1,0 +1,22 @@
+[
+    {
+      "ruleName": "Example Rule 1",
+      "packageNames": "com.google.android.apps.messaging",
+      "titleKeyword": "Example Title",
+      "bodyKeyword": "Example Body",
+      "startTime": "08:00",
+      "endTime": "18:00",
+      "days": "SUN,TUE,MON",
+      "enabled": 1
+    },
+    {
+      "ruleName": "Example Rule 2",
+      "packageNames": "com.google.android.apps.messaging",
+      "titleKeyword": "Another Title",
+      "bodyKeyword": "Another Body",
+      "startTime": "09:00",
+      "endTime": "17:00",
+      "days": "THU,FRI",
+      "enabled": 1
+    }
+  ]
