@@ -10,7 +10,7 @@
   },
   {
     "ruleName": "Office Hours Job Notifications Filter",
-    "packageNames": "com.linkedin.android,com.indeed.android.jobsearch,com.naukri.app,com.google.android.apps.messaging,com.android.mms,com.google.android.gm,com.microsoft.office.outlook",
+    "packageNames": "com.linkedin.android,com.indeed.android.jobsearch,com.naukri.app,com.google.android.apps.messaging,com.android.mms,com.samsung.android.messaging,com.google.android.gm,com.microsoft.office.outlook",
     "titleKeyword": "Job",
     "bodyKeyword": "Hiring",
     "startTime": "09:00",
@@ -19,7 +19,7 @@
   },
   {
     "ruleName": "Gambling Ads Filter",
-    "packageNames": "com.dream11.app,com.betway.app,com.google.android.apps.messaging,com.android.mms",
+    "packageNames": "com.dream11.app,com.betway.app,com.google.android.apps.messaging,com.android.mms,com.samsung.android.messaging",
     "titleKeyword": "Win Big",
     "bodyKeyword": "Bet Now",
     "startTime": null,
@@ -46,7 +46,7 @@
   },
   {
     "ruleName": "E-commerce Sales Spam Filter",
-    "packageNames": "com.flipkart.android,com.amazon.mShop.android.shopping,com.myntra.android,com.google.android.apps.messaging,com.android.mms",
+    "packageNames": "com.flipkart.android,com.amazon.mShop.android.shopping,com.myntra.android,com.google.android.apps.messaging,com.android.mms,com.samsung.android.messaging",
     "titleKeyword": "Big Sale",
     "bodyKeyword": "Limited Time Offer",
     "startTime": null,
