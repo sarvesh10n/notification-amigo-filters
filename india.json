@@ -1,22 +1,75 @@
 [
-    {
-      "ruleName": "Example Rule 1",
-      "packageNames": "com.google.android.apps.messaging",
-      "titleKeyword": "Example Title",
-      "bodyKeyword": "Example Body",
-      "startTime": "08:00",
-      "endTime": "18:00",
-      "days": "SUN,TUE,MON",
-      "enabled": 1
-    },
-    {
-      "ruleName": "Example Rule 2",
-      "packageNames": "com.google.android.apps.messaging",
-      "titleKeyword": "Another Title",
-      "bodyKeyword": "Another Body",
-      "startTime": "09:00",
-      "endTime": "17:00",
-      "days": "THU,FRI",
-      "enabled": 1
-    }
-  ]
+  {
+    "ruleName": "Loan Offers Filter",
+    "packageNames": null,
+    "titleKeyword": "Loan Offer",
+    "bodyKeyword": "Instant Loan",
+    "startTime": null,
+    "endTime": null,
+    "days": null
+  },
+  {
+    "ruleName": "Office Hours Job Notifications Filter",
+    "packageNames": "com.linkedin.android,com.indeed.android.jobsearch,com.naukri.app,com.google.android.apps.messaging,com.android.mms,com.google.android.gm,com.microsoft.office.outlook",
+    "titleKeyword": "Job",
+    "bodyKeyword": "Hiring",
+    "startTime": "09:00",
+    "endTime": "18:00",
+    "days": "MON,TUE,WED,THU,FRI"
+  },
+  {
+    "ruleName": "Gambling Ads Filter",
+    "packageNames": "com.dream11.app,com.betway.app,com.google.android.apps.messaging,com.android.mms",
+    "titleKeyword": "Win Big",
+    "bodyKeyword": "Bet Now",
+    "startTime": null,
+    "endTime": null,
+    "days": null
+  },
+  {
+    "ruleName": "Subscription Expiry Scam Filter",
+    "packageNames": "com.fake.antivirus,com.fake.software",
+    "titleKeyword": "Subscription Expiry",
+    "bodyKeyword": "Renew Now",
+    "startTime": null,
+    "endTime": null,
+    "days": null
+  },
+  {
+    "ruleName": "Phishing Alert Filter",
+    "packageNames": "com.google.android.gm,com.microsoft.office.outlook",
+    "titleKeyword": "Account Suspended",
+    "bodyKeyword": "Verify Details",
+    "startTime": null,
+    "endTime": null,
+    "days": null
+  },
+  {
+    "ruleName": "E-commerce Sales Spam Filter",
+    "packageNames": "com.flipkart.android,com.amazon.mShop.android.shopping,com.myntra.android,com.google.android.apps.messaging,com.android.mms",
+    "titleKeyword": "Big Sale",
+    "bodyKeyword": "Limited Time Offer",
+    "startTime": null,
+    "endTime": null,
+    "days": null
+  },
+  {
+    "ruleName": "Fake Job Offers Filter",
+    "packageNames": null,
+    "titleKeyword": "Job Offer",
+    "bodyKeyword": "Easy Job",
+    "startTime": null,
+    "endTime": null,
+    "days": null
+  },
+  {
+    "ruleName": "Lottery Scam Filter",
+    "packageNames": null,
+    "titleKeyword": "You Won",
+    "bodyKeyword": "Claim Your Prize",
+    "startTime": null,
+    "endTime": null,
+    "days": null
+  }
+  
+]
